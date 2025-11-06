@@ -1,0 +1,13 @@
+﻿H:\New folder\001\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Snake2021.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  console.cpp
+  function.cpp
+D:\du an c++++++\Snake-master\Snake2021\console.cpp(93,42): warning C4244: 'argument': conversion from 'DWORD' to 'WORD', possible loss of data
+D:\du an c++++++\Snake-master\Snake2021\function.cpp(42,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\du an c++++++\Snake-master\Snake2021\function.cpp(196,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\du an c++++++\Snake-master\Snake2021\function.cpp(1163,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+D:\du an c++++++\Snake-master\Snake2021\console.cpp(109,1): warning C5082: second argument to 'va_start' is not the last named parameter
+  Snake2021.vcxproj -> D:\du an c++++++\Snake-master\x64\Debug\SnakeGame.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
