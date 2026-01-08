@@ -28,7 +28,7 @@ void User::setPhone(const string& p) { phone = p; }
 void User::setRole(const string& r) { role = r; }
 void User::setWallet(double w) { wallet = w; }
 
-// ======================= FIX Ở ĐÂY =======================
+
 bool User::checklogin(const string& user, const string& plainPassword) const {
     if (user != username || password_hash.empty()) return false;
 
